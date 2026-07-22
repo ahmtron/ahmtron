@@ -1,4 +1,4 @@
-````markdown
+
 # 👋 Hi, I'm Ahmed Javed
 
 <p align="center">
@@ -415,4 +415,4 @@ open_to:
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:5B21B6,50:7C3AED,100:2563EB"/>
 
 </p>
-````
+
