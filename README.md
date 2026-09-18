@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/Bachelor's%20Student-Software%20Engineering-6D28D9?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/AI-Enthusiast-7C3AED?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Product-Engineering-4F46E5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Lahore-Pakistan-2563EB?style=for-the-badge"/>
+
 
 </p>
 
